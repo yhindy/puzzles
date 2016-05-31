@@ -1,3 +1,5 @@
+NOTE: THIS IS AN ASSIGNMENT WRITTEN BY @sredmond. This outlines the spec for the code
+
 # Assignment 2: Quest for the Holy Grail!
 
 **Due: 4:59:59 PM, Sat May 7th**
